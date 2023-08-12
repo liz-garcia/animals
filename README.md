@@ -10,3 +10,7 @@
 
 * Polar Bear
 [About Polar Bears](polar-bear.md)
+
+
+* Manta Ray
+[About Giant Manta Rays](manta-ray.md)
