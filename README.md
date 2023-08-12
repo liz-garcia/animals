@@ -1,12 +1,12 @@
 # Animals List
 
 * Elephant
-...[link here](elephant.md)
+[About Elephants](elephant.md)
 
 
 * Blue Whale
-...[link here](blue-whale.md)
+[About Blue whales](blue-whale.md)
 
 
 * Polar Bear
-...[link here](polar-bear.md)
+[About Polar Bears](polar-bear.md)
