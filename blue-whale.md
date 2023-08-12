@@ -1,5 +1,4 @@
 # Blue Whale
----
 
 ![Blue Whale Photography](https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg "Blue Whale")
 

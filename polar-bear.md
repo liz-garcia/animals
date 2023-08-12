@@ -1,5 +1,4 @@
 # Polar Bear
----
 
 ![Polar Bear Photography](https://upload.wikimedia.org/wikipedia/commons/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg" Polar Bear")
 

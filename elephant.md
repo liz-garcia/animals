@@ -1,5 +1,4 @@
 # African Bush Elephant
----
 
 ![African Bush Elephant Photography](https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg "African Bush Elephant")
 
